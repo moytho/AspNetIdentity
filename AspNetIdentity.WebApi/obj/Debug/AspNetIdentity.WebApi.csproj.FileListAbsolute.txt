@@ -41,3 +41,5 @@ c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIde
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.Migrations.ClaseClinica.resources
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.Migrations.ClaseClinica1.resources
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.Migrations.UsuarioRelacionClinica.resources
+c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.WebHost.dll
+c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.WebHost.xml
