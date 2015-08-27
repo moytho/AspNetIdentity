@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
+﻿using AspNetIdentity.WebApi.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -22,6 +23,8 @@ namespace AspNetIdentity.WebApi.Infrastructure
 
         [Required]
         public DateTime JoinDate { get; set; }
+
+        public virtual Clinica CodigoClinica {get;set;}
 
     }
 }

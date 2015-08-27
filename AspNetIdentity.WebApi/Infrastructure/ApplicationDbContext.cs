@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
+﻿using AspNetIdentity.WebApi.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
@@ -19,6 +21,6 @@ namespace AspNetIdentity.WebApi.Infrastructure
         {
             return new ApplicationDbContext();
         }
-
+        public virtual DbSet<Clinica> Clinicas { get; set; }
     }
 }
