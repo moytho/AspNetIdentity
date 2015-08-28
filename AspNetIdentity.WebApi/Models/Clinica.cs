@@ -14,6 +14,7 @@ namespace AspNetIdentity.WebApi.Models
         public string Nombre{get;set;}
         public string Telefono { get; set; }
         public string Direccion { get; set; }
+        public string Logo { get; set; }
         public virtual ICollection<ApplicationUser> ApplicationUser { get; set; }
 
     }
