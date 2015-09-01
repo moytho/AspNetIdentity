@@ -43,3 +43,6 @@ c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIde
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.Migrations.UsuarioRelacionClinica.resources
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.WebHost.dll
 c:\users\miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Miyabean\Documents\Visual Studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.Migrations.ClinicaLogo.resources
+C:\Users\Miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SendGrid.SmtpApi.dll
+C:\Users\Miyabean\documents\visual studio 2013\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SendGridMail.dll
